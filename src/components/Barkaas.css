@@ -1,0 +1,78 @@
+.res-item{
+    display: flex;
+    flex-direction: row;
+  }
+  .container{
+      width: 550px;
+      height: 250px;
+      display: flex;
+      flex-direction: row;
+      border-radius: 20px;
+      box-shadow: 10px 10px 5px #787672;
+      margin-top: 30px;
+      margin-right: 150px;
+  }
+  .res-name{
+      color: #183b56;
+      font-family: "Roboto";
+      font-size: 28px;
+      font-weight: 700;
+    }
+    .item{
+      margin-left: 5px;
+    }
+    .item-name{
+      font-size: 22px;
+    }
+    .item-img{
+      border-radius: 16px;
+      width: 300px;
+      margin-left: 50px;
+    }
+    .check{
+      color: orange;
+    }
+    button{
+      background-color: orange;
+      color: white;
+      width: 100px;
+      border: none;
+      
+    }
+    
+    .add{
+      margin-top: 15px;
+      margin-bottom: 20px;
+      display: flex;
+      flex-direction: row;
+    }
+    button{
+      display:inline-block;
+      
+    }
+    .cou-but{
+      width: 20px;
+      height: 20px;
+      margin-left: 2px;
+      font-size: 20px;
+      background-color: black;
+      color: white;
+      border-radius: 5px;
+    }
+
+    .cou-but-1{
+      width: 30px;
+      height: 20px;
+      margin-left: 2px;
+      font-size: 20px;
+      background-color: black;
+      color: white;
+      border-radius: 5px;
+    }
+    .cou-val{
+      font-size: 20px;
+     
+    }
+    
+    
+    
